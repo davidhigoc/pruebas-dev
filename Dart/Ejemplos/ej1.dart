@@ -1,4 +1,4 @@
-// * Prueba Básica [ Chiste ]
+// * Ejemplo 1 - [ Básico ]
 // - En este pedazo de codigo se expresa un simple codigo para verificar
 // instalación de dart, choco y en su defecto Flutter. (run in terminal)
 // ! davidhigoc
